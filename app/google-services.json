@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36083106836",
+    "project_id": "mobilesensors-d9b96",
+    "storage_bucket": "mobilesensors-d9b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36083106836:android:c218fb9930ec4a41f25301",
+        "android_client_info": {
+          "package_name": "com.example.iot_mobile_sensors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZdYTf4lnuYJEUjUHU7bv5ra0fPVi35E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
